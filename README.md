@@ -14,3 +14,6 @@ These notebooks are organized in five modules with blank notebooks for students 
 
 ### Setup
 
+Jupyter notebooks can be run locally from a Python virtual environment. To install the necessary packages in the virtual environment, run:
+
+`pip install -r requirements.txt`
