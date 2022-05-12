@@ -14,6 +14,12 @@ These notebooks are organized in five modules with blank notebooks for students 
 
 ### Setup
 
-Jupyter notebooks can be run locally from a Python virtual environment. To install the necessary packages in the virtual environment, run:
+Jupyter notebooks can be run locally from a [Python virtual environment](https://docs.python.org/3/library/venv.html). To install the necessary packages in the virtual environment, run:
 
 `pip install -r requirements.txt`
+
+From there, the Jupyter environment can be started by simply running:
+
+`jupyter notebook`
+
+Alternatively, these notebooks can be uploaded to a Google drive for use with [Google Colaboratory](https://research.google.com/colaboratory/).
